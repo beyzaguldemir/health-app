@@ -95,11 +95,5 @@ The application can be run directly on any physical device using the **Expo Go**
 
 ---
 
-## Demo Video
 
-Demo Video: [YouTube Link]
-
-> A short walkthrough (max 1 minute) demonstrating the main features of the application.
-
----
 
